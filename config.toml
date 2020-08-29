@@ -1,5 +1,5 @@
 title = "קמבוצ'ה אהובתי"
-baseURL = "https://example.com"
+baseURL = ""
 languageCode = "he"
 theme = "ananke"
 # Dir = "rtl"
