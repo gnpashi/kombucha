@@ -10,15 +10,14 @@ SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
-
 [sitemap]
   changefreq = "monthly"
   priority = 0.5
   filename = "sitemap.xml"
 
 [params]
+	site_logo = "images/logo.svg"
   favicon = ""
-  site_logo = ""
   description = "The last theme you'll ever need. Maybe."
   facebook = ""
   # twitter = "https://twitter.com/GoHugoIO"
